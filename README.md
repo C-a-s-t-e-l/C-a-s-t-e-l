@@ -10,9 +10,10 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdqY252YWFubG4yam9xcjRwZnBxMDlsMHhxbTZpZTZmdG0wc3YweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ALV9PKDjbZvAVlMnT0/giphy.gif" width="100"/>
+ <!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdqY252YWFubG4yam9xcjRwZnBxMDlsMHhxbTZpZTZmdG0wc3YweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ALV9PKDjbZvAVlMnT0/giphy.gif" width="100"/> --!>
+  
   <h1>
-    WELCOME 2 MY HOMEPAGE!
+    WELCOME TO MY HOMEPAGE!
   </h1>
   <p>
     > C-a-s-t-e-l's corner of the web <
@@ -92,19 +93,29 @@
 ### 🌐 Find Me On The Web!
 
 
-<p align="center">
-  <a href="www.linkedin.com/in/cascodes">
-    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=plastic&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://discordapp.com/users/567994015299928064">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="discord" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61579492107593">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="facebook" />
-</a>
-</p>
+<div align="center">
 
+  <h3>🌐 Find Me On The Web!</h3>
+  
+  <h4>🌐 Web Portfolio</h4>
+  <a href="https://c-a-s-t-e-l.github.io/Casport-v2">
+    <img src="https://img.shields.io/badge/▲%20VISIT-000000?style=for-the-badge&logoColor=white" alt="Visit Portfolio"/>
+  </a>
+  <br/>
+  <br/>
+  
+  <p>
+    <a href="www.linkedin.com/in/cascodes">
+      <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="https://discordapp.com/users/567994015299928064">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61579492107593">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+    </a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=C-a-s-t-e-l&label=visitors&color=blue&style=for-the-badge" alt="profile views" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=C-a-s-t-e-l&label=visitors&color=blue&style=plastic" alt="profile views" />
-</p>
+</div>
