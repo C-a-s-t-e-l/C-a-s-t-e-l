@@ -78,6 +78,7 @@
   <img src="https://img.shields.io/badge/Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google API"/>
   <img src="https://img.shields.io/badge/HTML%20Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Canvas"/>
   <img src="https://img.shields.io/badge/Local%20Storage-FFD700?style=for-the-badge" alt="Local Storage"/>
+  <img src="https://img.shields.io/badge/Web3Forms-4CAF50?style=for-the-badge" alt="Web3Forms"/>
 </p>
 
 <h3 align="center">Soft Skills</h3>
