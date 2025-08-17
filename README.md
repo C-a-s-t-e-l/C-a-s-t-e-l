@@ -39,57 +39,53 @@
 
 ### 💾 My Toolbelt
 
-<div style="width: 100%; margin: 20px 0;">
+<h3 align="center">Tech Stacks & Designs</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" alt="Passport.js"/>
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet.js"/>
+  <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth"/>
+  <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Tokens"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/RESTful%20API-005B9B?style=for-the-badge" alt="RESTful API"/>
+  <img src="https://img.shields.io/badge/Session%20Mngmt-8A2BE2?style=for-the-badge" alt="Session Management"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/Database%20Design-FF4500?style=for-the-badge" alt="Database Design"/>
+  <img src="https://img.shields.io/badge/CRUD%20Ops-32CD32?style=for-the-badge" alt="CRUD Ops"/>
+</p>
 
-  <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 20px; color: #c9d1d9; margin-bottom: 15px; border-bottom: 1px solid #444c56; padding-bottom: 5px;">Tech Stacks & Designs</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">HTML</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">CSS</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">JavaScript</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Bootstrap</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Node.js</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Express.js</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Passport.js</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Leaflet.js</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Google OAuth</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">JSON Web Tokens</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Google Gemini API / Generative AI</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Google Cloud Text-to-Speech API</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">RESTful API</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Session Mngmt</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Java</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">PostgreSQL</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">MySQL</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Socket.IO</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Database Design</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">CRUD Ops</span>
-  </div>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DevTools"/>
+  <img src="https://img.shields.io/badge/Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google API"/>
+  <img src="https://img.shields.io/badge/HTML%20Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Canvas"/>
+  <img src="https://img.shields.io/badge/Local%20Storage-FFD700?style=for-the-badge" alt="Local Storage"/>
+</p>
 
-  <h3 style="margin-top: 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 20px; color: #c9d1d9; margin-bottom: 15px; border-bottom: 1px solid #444c56; padding-bottom: 5px;">Tools</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Git</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Github</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Vercel</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Render</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">VSCode</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">NPM</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Supabase</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Postman</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Browser DevTools</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Google API</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">HTML Canvas</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Local Storage</span>
-  </div>
-
-  <h3 style="margin-top: 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 20px; color: #c9d1d9; margin-bottom: 15px; border-bottom: 1px solid #444c56; padding-bottom: 5px;">Soft Skills</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Adaptability</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Time Management</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Communication</span>
-    <span style="display: inline-block; padding: 10px 18px; font-size: 15px; font-weight: 500; background-color: #222731; color: #82aaff; border: 1px solid #444c56; border-radius: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Problem-Solving</span>
-  </div>
-
-</div>
+<h3 align="center">Soft Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Adaptability-20B2AA?style=for-the-badge" alt="Adaptability"/>
+  <img src="https://img.shields.io/badge/Time%20Management-FF8C00?style=for-the-badge" alt="Time Management"/>
+  <img src="https://img.shields.io/badge/Communication-4682B4?style=for-the-badge" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-9370DB?style=for-the-badge" alt="Problem Solving"/>
+</p>
 
 ---
 
