@@ -27,7 +27,7 @@
 <table align="center">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=C-a-s-t-e-l&show_icons=true&locale=en&theme=buefy&line_height=27" alt="c-a-s-t-e-l github stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=C-a-s-t-e-l&show_icons=true&locale=en&theme=synthwave&line_height=27" alt="c-a-s-t-e-l github stats" />
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-a-s-t-e-l&show_icons=true&locale=en&layout=compact&theme=buefy" alt="c-a-s-t-e-l top languages" />
