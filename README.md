@@ -95,8 +95,6 @@
 
 
 <div align="center">
-
-  <h3>🌐 Find Me On The Web!</h3>
   
   <h4>🌐 Web Portfolio</h4>
   <a href="https://c-a-s-t-e-l.github.io/Casport-v2">
